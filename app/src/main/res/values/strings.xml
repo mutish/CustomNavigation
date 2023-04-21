@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationApp</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="bnv">Bottom Navigation View</string>
+    <string name="title_activity_side_navigation">SideNavigationActivity</string>
+    <string name="title_activity_tabscreen">tabscreen</string>
+</resources>
